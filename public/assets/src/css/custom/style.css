@@ -1,0 +1,25 @@
+a {
+    font-size: small;
+    text-decoration: none;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: medium;
+}
+
+td {
+    font-size: 11pt;
+}
+
+.btn-primary {
+    background-color: #ffffff;
+    color: #222E3C;
+    border-color: #222E3C;
+}
+
+.btn-primary:hover {
+    background-color: #222E3C;
+    color: #ffffff;
+}
+
