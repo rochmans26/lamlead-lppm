@@ -63,7 +63,7 @@
                                     <th scope="col">Tahun Kegiatan</th>
                                     <th scope="col">Tahun Pelaksanaan</th>
                                     <th scope="col">Link Dokumen</th>
-                                    <th scope="col">Reviewer</th>
+                                    {{-- <th scope="col">Reviewer</th> --}}
                                     <th scope="col">Status</th>
                                     <th scope="col">Action</th>
                                 </tr>
@@ -81,7 +81,7 @@
                                     <td>2023</td>
                                     <td>2024</td>
                                     <td><a href="" class="btn badge bg-primary">Link</a></td>
-                                    <td>Agin Ginanjar S.Kom, M.T</td>
+                                    {{-- <td>Agin Ginanjar S.Kom, M.T</td> --}}
                                     <td><span class="badge bg-success">Disetujui</span></td>
                                     <td>
                                         <div class="vstack gap-1">
@@ -104,7 +104,7 @@
                                     <td>2023</td>
                                     <td>2024</td>
                                     <td><a href="" class="btn badge bg-primary">Link</a></td>
-                                    <td>Siti Nurjanah S.E, M.H</td>
+                                    {{-- <td>Siti Nurjanah S.E, M.H</td> --}}
                                     <td><span class="badge bg-warning">Direvisi</span></td>
                                     <td>
                                         <div class="vstack gap-1">
@@ -127,7 +127,7 @@
                                     <td>2023</td>
                                     <td>2024</td>
                                     <td><a href="" class="btn badge bg-primary">Link</a></td>
-                                    <td>-</td>
+                                    {{-- <td>-</td> --}}
                                     <td><span class="badge bg-secondary">Proses</span></td>
                                     <td>
                                         <div class="vstack gap-1">
@@ -149,7 +149,7 @@
                                     <td>2023</td>
                                     <td>2030</td>
                                     <td><a href="" class="btn badge bg-primary">Link</a></td>
-                                    <td>Husniah S.Ikom, M.T</td>
+                                    {{-- <td>Husniah S.Ikom, M.T</td> --}}
                                     <td><span class="badge bg-secondary">Proses</span></td>
                                     <td>
                                         <div class="vstack gap-1">
@@ -171,7 +171,7 @@
                                     <td>2023</td>
                                     <td>2030</td>
                                     <td><a href="" class="btn badge bg-primary">Link</a></td>
-                                    <td>Husniah S.Ikom, M.T</td>
+                                    {{-- <td>Husniah S.Ikom, M.T</td> --}}
                                     <td><span class="badge bg-danger">Ditolak</span></td>
                                     <td>
                                         <div class="vstack gap-1">

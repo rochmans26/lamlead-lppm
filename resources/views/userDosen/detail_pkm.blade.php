@@ -76,8 +76,8 @@
                 <div class="card-header">
                     <div class="hstack gap-2">
                         <h5 class="card-title mb-0">Anggota PKM</h5>
-                        <a href="" data-bs-target="#tambahAnggotaPkm" data-bs-toggle="modal"><i
-                                data-feather="plus-circle" class="align-top"></i></a>
+                        {{-- <a href="" data-bs-target="#tambahAnggotaPkm" data-bs-toggle="modal"><i
+                                data-feather="plus-circle" class="align-top"></i></a> --}}
                     </div>
 
                 </div>
@@ -116,7 +116,9 @@
         </div>
 
     </div>
-    <div class="row">
+
+    {{-- by Admin --}}
+    {{-- <div class="row">
         <div class="col-12 col-lg-6 col-xxl-6 d-flex">
             <div class="card flex-fill w-100">
                 <div class="card-header">
@@ -231,7 +233,7 @@
             </div>
         </div>
 
-    </div>
+    </div> --}}
 
 
     <!-- Modal Tambah Anggota PKM -->
@@ -296,8 +298,7 @@
                     <form>
                         <div class="mb-3">
                             <label for="bidang" class="form-label">NPM</label>
-                            <input type="text" name="npm" class="form-control" id=""
-                                placeholder="411xxxxx">
+                            <input type="text" name="npm" class="form-control" id="" placeholder="411xxxxx">
                         </div>
                         <div class="mb-3">
                             <label for="namaMhs" class="form-label">Nama</label>

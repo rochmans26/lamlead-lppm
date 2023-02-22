@@ -23,13 +23,13 @@
                 Proposal
             </li>
             <li class="sidebar-item">
-                <a class="sidebar-link" href="/pengajuan-judul">
+                <a class="sidebar-link" href="/pengajuan-proposal">
                     <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Pengajuan</span>
                 </a>
             </li>
-            
+
             <li class="sidebar-item">
-                <a class="sidebar-link" href="/pengajuan-judul">
+                <a class="sidebar-link" href="/jadwal-sempro">
                     <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Seminar</span>
                 </a>
             </li>
@@ -39,20 +39,21 @@
                 Hasil PKM
             </li>
             <li class="sidebar-item">
-                <a class="sidebar-link" href="/pengajuan-judul">
-                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Laporan Hasil</span>
+                <a class="sidebar-link" href="/pkm">
+                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Laporan
+                        Hasil</span>
                 </a>
             </li>
-           
+
             <li class="sidebar-item">
-                <a class="sidebar-link" href="/pengajuan-judul">
+                <a class="sidebar-link" href="/jadwal-semhas">
                     <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Revisi Hasil</span>
                 </a>
             </li>
 
 
             {{-- Menu Pengajuan --}}
-            <li class="sidebar-header">
+            {{-- <li class="sidebar-header">
                 Pengajuan
             </li>
             <li class="sidebar-item">
@@ -72,7 +73,7 @@
                     <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Pengajuan
                         PKM</span>
                 </a>
-            </li>
+            </li> --}}
             {{-- End Menu Pengajuan --}}
 
             {{-- Menu Publikai --}}
@@ -84,16 +85,16 @@
                     <i class="align-middle" data-feather="list"></i> <span class="align-middle">Publikasi Anda</span>
                 </a>
             </li>
-            <li class="sidebar-item">
+            {{-- <li class="sidebar-item">
                 <a class="sidebar-link" href="/add-publikasi">
                     <i class="align-middle" data-feather="edit"></i> <span class="align-middle">Tambah Publikasi</span>
                 </a>
-            </li>
+            </li> --}}
             {{-- End Menu Publikasi --}}
 
 
             {{-- Menu Jadwal --}}
-            <li class="sidebar-header">
+            {{-- <li class="sidebar-header">
                 Jadwal
             </li>
             <li class="sidebar-item">
@@ -107,11 +108,11 @@
                     <i class="align-middle" data-feather="calendar"></i> <span class="align-middle">Seminar
                         Hasil</span>
                 </a>
-            </li>
+            </li> --}}
             {{-- End Menu Jadwal --}}
 
             {{-- Menu Info Hasil --}}
-            <li class="sidebar-header">
+            {{-- <li class="sidebar-header">
                 Hasil
             </li>
             <li class="sidebar-item">
@@ -125,7 +126,7 @@
                     <i class="align-middle" data-feather="book"></i> <span class="align-middle"> Hasil Seminar
                         Hasil</span>
                 </a>
-            </li>
+            </li> --}}
             {{-- End Menu Info Hasil --}}
 
             <hr class="text text-white">
