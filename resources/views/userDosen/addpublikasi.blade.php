@@ -14,7 +14,7 @@
                                 <div class="card bg-dark text-white">
                                     <img src="assets/src/img/tron/unsplash-space.jpg" class="card-img" alt="...">
                                     <div class="card-img-overlay text text-center">
-                                        <img src="assets/src/img/tron/unlaantibohong.png" alt="" width="200">
+                                        {{-- <img src="assets/src/img/tron/unlaantibohong.png" alt="" width="200"> --}}
                                     </div>
                                 </div>
                                 <div class="card-body">

@@ -18,6 +18,39 @@
                 </a>
             </li>
 
+            {{-- Pergantian --}}
+            <li class="sidebar-header">
+                Proposal
+            </li>
+            <li class="sidebar-item">
+                <a class="sidebar-link" href="/pengajuan-judul">
+                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Pengajuan</span>
+                </a>
+            </li>
+            
+            <li class="sidebar-item">
+                <a class="sidebar-link" href="/pengajuan-judul">
+                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Seminar</span>
+                </a>
+            </li>
+
+
+            <li class="sidebar-header">
+                Hasil PKM
+            </li>
+            <li class="sidebar-item">
+                <a class="sidebar-link" href="/pengajuan-judul">
+                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Laporan Hasil</span>
+                </a>
+            </li>
+           
+            <li class="sidebar-item">
+                <a class="sidebar-link" href="/pengajuan-judul">
+                    <i class="align-middle" data-feather="file-text"></i> <span class="align-middle">Revisi Hasil</span>
+                </a>
+            </li>
+
+
             {{-- Menu Pengajuan --}}
             <li class="sidebar-header">
                 Pengajuan
